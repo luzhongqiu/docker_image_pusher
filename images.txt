@@ -1,1 +1,1 @@
-ghcr.io/ggerganov/llama.cpp:server
+michaelf34/infinity:0.0.75-trt-onnx
